@@ -1,2 +1,5 @@
 # ETL_Project
-ETL Project
+
+ETL: Extract, Transform, Load
+
+
